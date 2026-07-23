@@ -1,5 +1,3 @@
-# 💫 About Me:
-
 📌 **Sobre Mim**
 
 Olá! Chamo-me Gustavo Rocha e sou Desenvolvedor Full Stack no setor de TI do Instituto de Ensino e Pesquisa (IEP) do Hospital de Amor.
