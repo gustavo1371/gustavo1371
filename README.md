@@ -44,10 +44,4 @@ A minha rotina envolve criar e dar suporte a soluções web eficientes, unindo b
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo1371&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
 
----
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=gustavo1371&icon=3&color=4" alt="Profile Views" />
-  </a>
-</div>
+--- 
