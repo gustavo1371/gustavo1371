@@ -39,4 +39,20 @@ Atuo como **Desenvolvedor Full Stack** no setor de TI do Instituto de Ensino e P
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 #### **Ferramentas & Infra**
-![Git](
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+---
+
+### 📊 Estatísticas & Atividade
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo1371&theme=react-dark&hide_border=true&area=true" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gustavo1371&style=flat-square&color=blue" alt="Profile Views" />
+</div>
