@@ -6,10 +6,10 @@ Olá! Chamo-me Gustavo Rocha e sou Desenvolvedor Full Stack no setor de TI do In
 
 A minha rotina envolve criar e dar suporte a soluções web eficientes, unindo boa arquitetura de código, segurança e foco no utilizador para atender às demandas de um ecossistema corporativo aplicado à saúde e pesquisa.
 
-- 💻 **Atuação:** Desenvolvedor Full Stack no TI IEP (Hospital de Amor).
-- 🎓 **Fase Atual:** Consolidando práticas avançadas de desenvolvimento Web, focado em escrita de código limpo e arquitetura de sistemas.
-- 🎯 **Foco:** Desenvolvimento de interfaces intuitivas, consumo e criação de APIs robustas e modelagem/otimização de bancos de dados relacionais.
-- 🛠️ **Diferencial:** Experiência prática resolvendo problemas reais num ambiente corporativo de grande impacto social e tecnológico.
+💻 **Atuação:** Desenvolvedor Full Stack no TI IEP (Hospital de Amor).
+🎓 **Fase Atual:** Consolidando práticas avançadas de desenvolvimento Web, focado em escrita de código limpo e arquitetura de sistemas.
+🎯 **Foco:** Desenvolvimento de interfaces intuitivas, consumo e criação de APIs robustas e modelagem/otimização de bancos de dados relacionais.
+🛠️ **Diferencial:** Experiência prática resolvendo problemas reais num ambiente corporativo de grande impacto social e tecnológico.
 
 ---
 
