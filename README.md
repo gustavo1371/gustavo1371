@@ -35,13 +35,6 @@ A minha rotina envolve criar e dar suporte a soluções web eficientes, unindo b
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gustavo1371&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
----
-
 ### ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
