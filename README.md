@@ -38,13 +38,6 @@ A minha rotina envolve criar e dar suporte a soluções web eficientes, unindo b
 
 ---
 
-### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
-
----
-
 ### 📊 Estatísticas & Atividade
 
 <div align="center">
