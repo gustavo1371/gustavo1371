@@ -47,5 +47,5 @@ Sou Desenvolvedor Full Stack focado na criação de aplicações web eficientes,
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavorochasilva-fullstack&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo1371&theme=tokyonight" />
 </div>
