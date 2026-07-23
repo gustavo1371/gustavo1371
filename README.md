@@ -42,9 +42,17 @@ Sou Desenvolvedor Full Stack focado na criação de aplicações web eficientes,
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-### 📊 Estatísticas no GitHub
+### 📊 Estatísticas & Atividade
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavo1371&show_icons=true&theme=dark&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo1371&layout=compact&theme=dark" />
+  <a href="https://github.com/gustavo1371">
+    <img src="https://img.shields.io/github/followers/gustavo1371?style=for-the-badge&logo=github&label=Seguidores&color=2ea44f" />
+    <img src="https://img.shields.io/github/stars/gustavo1371?style=for-the-badge&logo=github&label=Stars&color=f1e05a" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo1371&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
