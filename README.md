@@ -45,13 +45,6 @@ A minha rotina envolve criar e dar suporte a soluções web eficientes, unindo b
 
 ---
 
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=gustavo1371&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
-</div>
-
----
-
 ### 📊 Estatísticas & Atividade
 
 <div align="center">
