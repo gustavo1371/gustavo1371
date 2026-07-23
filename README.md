@@ -44,8 +44,7 @@ Sou Desenvolvedor Full Stack focado na criação de aplicações web eficientes,
 
 ### 📊 Estatísticas no GitHub
 
-### 📊 Estatísticas no GitHub
-
 <div align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo1371&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavo1371&show_icons=true&theme=dark&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo1371&layout=compact&theme=dark" />
 </div>
