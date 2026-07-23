@@ -44,7 +44,8 @@ Sou Desenvolvedor Full Stack focado na criação de aplicações web eficientes,
 
 ### 📊 Estatísticas no GitHub
 
+### 📊 Estatísticas no GitHub
+
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gustavorochasilva-fullstack&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustavorochasilva-fullstack&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavorochasilva-fullstack&theme=tokyonight" />
 </div>
